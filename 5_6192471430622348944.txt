@@ -1,0 +1,44 @@
+Roles and responsibilities of DE,DS,DA
+What is Big Data ?
+
+Starting limit and Ending Limit 
+Why we process Big Data
+Limitations of Existing Data Processing Systems
+	- Vertical Scaling
+	- Transfer Rate
+Horizontal Scaling
+DFS
+Distributed Storage
+Distributed Processing
+5 V's of big Data : Volume , velocity , variety , veracity , value
+What is Hadoop ?
+hadoop Versions 
+Hadoop Components 
+	HDFS
+	YARN
+	MR
+HDFS
+	NameNode
+	dataNode
+	
+secondary namenode
+HA and Federation
+File Blocks
+Replication
+Rack Awareness
+HB signal
+Block Report
+Read/Write Anatomy
+Safe mode
+HDFS Load Balancer
+
+MR Architecture
+YARN Architecture
+MR Workflow
+	WordCount
+	Transactions
+Optimizations
+	Combiner
+	Partitioner
+Speculative Execution
+FB vs Input Splits
